@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbalatti9&label=Profile%20views&color=0e75b6&style=flat" alt="gbalatti9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gaston_balatti" target="blank"><img src="https://img.shields.io/twitter/follow/gaston_balatti?logo=twitter&style=for-the-badge" alt="gaston_balatti" /></a> </p>
-
 - 🌱 I’m currently learning **React and Node**
 
 - 📫 How to reach me **gas.balatti@gmail.com**
