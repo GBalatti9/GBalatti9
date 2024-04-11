@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gas.balatti@gmail.com**
 
-- 📄 I may not have formal professional experience (yet!), but I'm a self-driven learner and passionate about coding. My approach to learning is simple: every time I acquire a new technology or concept, I challenge myself to create a project with it. You can find some examples on my profile; feel free to take a look. I'm eager to continue growing and learning. Let's build cool things together!
+- 📄 I'm a self-driven learner and passionate about coding. My approach to learning is simple: every time I acquire a new technology or concept, I challenge myself to create a project with it. You can find some examples on my profile; feel free to take a look. I'm eager to continue growing and learning. Let's build cool things together!
   
 - 💪 **I firmly believe that practice will turn me into a master.** 🚀
   
